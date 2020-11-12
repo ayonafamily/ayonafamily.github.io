@@ -28,8 +28,6 @@ Incluye **Instalación, Mantenimiento, Creación De Contenido**
 
 #### Algunos Web Sites Publicados:
 
-| --------------------------------------- | --------------------------:|
-
 | http://incaproperu.com/blog | Centro De Capacitación |
 
 | http://www.constructoramatsal.com | Inmobiliaria |
@@ -66,7 +64,7 @@ CONSULTOR 2012
 
 - Capacitador en Habilidades Blandas a personal Tiendas Wong - Cencosud
 
-- Elaboración de material didáctiico | Expositor - Instructor
+- Elaboración de material didáctico | Expositor - Instructor
 
 ### PROYECTOS & MINERIA SAC.
 

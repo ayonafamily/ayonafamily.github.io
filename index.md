@@ -1,123 +1,91 @@
-# 
+Jorge Luis Ayona Inglis
+=======================
 
-<center><img src="/logo2.png"> </center>
-
-> Cuando haces lo que te apasiona, disfrutarás de tu empleo
+![logo2](/logo2.png)
 
 ## Datos De Contacto
 
-- Jorge Luis Ayona Inglis.
-
-- DNI: 07937413
-
-- Dirección: Juan Pablo Fernandini 1583, Lima, Lima, Perú
-
-- Celular: +51 963-837204
-
-- FIJO: +51 648-3023
-
-- Email : ayonafamily@gmail.com
-
-- Web Site: http://www.jorgeayona.com
+- Nombre: Jorge Luis Ayona Inglis
+- Edad: 59 años
+- Dirección: Juan Pablo Fernandini 1583 Pueblo Libre.
+- WhatsApp: +51 963 837204
+- E-mail: ayonafamily@gmail.com
+- Carrera: Administración | Marketing Digital
 
 ## Experiencia Profesional
 
-## 1. Desarrollo En Wordpress
+### Diseño Web Wordpress
 
-Gestión Integral CMS Wordpress desde el 2007 (__Freelance__)
-
-Incluye **Instalación, Mantenimiento, Creación De Contenido**
+ Gestión Integral CMS Wordpress desde el 2007  (__Freelance__) .Incluye **Instalación, Mantenimiento,  Creación De Contenido**
 
 #### Algunos Web Sites Publicados:
 
--  http://incaproperu.com/blog . Centro De Capacitación
+| Url                                            | Tipo De Sitio              |
+| ---------------------------------------------- | -------------------------- |
+| http://incaproperu.com/blog                    | Centro De Capacitación     |
+| http://www.constructoramatsal.com              | Inmobiliaria               |
+| http://www.cursosytalleresdepuestasatierra.com | Capacitación               |
+| http://www.extintoresyservicios.com            | Seguridad Contra Incendios |
+| http://altonivel.wordpress.com                 | Temas Empresariales        |
+| http://volvamosacasa.wordpress.com             | Gestión deContenido        |
+| http://misrefexiones.wordpress.com             | Gestión de contenido       |
 
-- http://www.constructoramatsal.com - Inmobiliaria 
+### INSTITUTO DE CAPACITACIÓN PROFESIONAL,
 
-- http://www.cursosytalleresdepuestasatierra.com  . Capacitación
+- Tuve el cargo de: SUPERVISOR / CAPACITADOR.  2019
+- Participé en la Gestión Administrativa, Captación de clientes
+- Community Manager | Marketing Digital
+- Elaboración de materiales de capacitación, Dictado de cursos  Elaboración | Gestión de aulas virtuales en Moodle.
 
-- http://www.extintoresyservicios.com . Seguridad Contra Incendios 
+### PROYECTOS & MINERÍA S.A.C.
 
-- http://altonivel.wordpress.com  Temas Empresariales
+- Cargo: COACH EJECUTIVO | CONSULTOR - 2013
+  Elaboré y Ejecuté de proyectos de capacitación para la Plana Ejecutiva y personal de oficina. Sede Trujillo
 
-- http://volvamosacasa.wordpress.com - Gestión deContenido.
+### CRECE CONSULTORES LIMA - PERÚ
 
--  http://misrefexiones.wordpress.com . Gestión de contenido 
+- Trabajé con el título de CONSULTOR.  Fui asignado al área de Capacitación en Ética y Deontología a personal en Cencosud Tiendas Wong. Encargado de elaborar el material de instrucción y dictar clases. 2012
 
-## 2. Consultoria/Capacitación
+## Perfil Profesional
 
-### INSTITUTO DE CAPACITACIÓN PROFESIONAL
+### Nivel De Estudios
 
-SUPERVISOR / CAPACITADOR
+- Universidad De San Martín De Ṕorres. **Bachiller En Ciencias Administrativas***
+  . Seminario Kyrios. **Licenciado en Teología Pastoral**, **Maestría en Teología Mención: Familia***
 
-feb 2019 - Peru
+### Cursos
 
-- Gestión Administrativa y captación de clientes.
+- Universitas Telefónica - MiriadaX. **Marketing Digital**. 2019
+- Escuela de Emprendedores. **Desarrollo web Joomla**.
+- Universidad Rey Juan Carlos - Coursera.** Redes Sociales**. 2019
+- Universidad De Alicante - Coursera. **Desarrollo Web.*** 2017
+- UNIVERSIDAD DE SAN MARTÍN DE PORRES. **Moodle, creación de Aulas Virtuales**. 2012
+- INSTITUTO LATINOAMERICANO DE EMPRESAS & NEGOCIOS- ILEN. **“Incremente sus ventas, Marketing de Éxito y Redes Sociales”**. 2012
+- Organización Continental Para La Excelencia Educativa. **Coaching Ontológico & Cristiano**. 2009
+- PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ FACULTAD DE CIENCIAS E INGENIERIA. **Programación el Foxbase**   1993.
+- TELEMATIC. **Programación avanzada en FoxPro 2.5**  1994
+- ADV  Perú. **Vendedor Profesional**. 1990
 
-- Elaboración de materiales de capacitación Dictado de cursos .
+## Conocimientos
 
-- Elaboración/Gestión de aulas virtuales en Moodle.
+- Hablo inglés nivel intermedio superior y japones nivel básico.
+- Sé Diseñar | Desarrollar en Wordpress
+- Sé elaborar Temas Wordpress | Convertir plantillas Html5 a Wordpress.
+- Sé instalar | configurar | administrar sitios en Moodle
+- Sé Diseño Gráfico Con herramientas de software libre: Gimp | Inkscape
+- Sé crear contenido para blogs y Redes Sociales. Texto, audio, vídeo, imágen.
+- Sé de Community Management , Manejo De Redes Sociales, y Marketing Digital.
 
-- Community Manager
+## Otros
 
-### CRECE – Consultores
+Redes Sociales: 
 
-CONSULTOR 2012 
+- https://www.facebook.com/jorgeayonainglis 
 
-- Capacitador en Habilidades Blandas a personal Tiendas Wong - Cencosud
+- https://www.instagram.com/jorgelayonainglis/ 
 
-- Elaboración de material didáctico | Expositor - Instructor
+- https://www.linkedin.com/in/jorgeayonainglis/
+  
+  Blog: 
 
-### PROYECTOS & MINERIA SAC.
-
-- COACH /CONSULTOR 2012 
-
-- Elaboración, Ejecución De Proyectos de Capacitación, Coaching personal y ejecutivo para Plana Directiva, y de oficina.
-
-### UNIVERSIDAD DE SAN MARTÍN DE PORRES – FACULTAD DE CC.AA. Y RRHH.
-
-Expositor en la V Expo-ciencia Empresarial. Tema: “Análisis De La Empresa Zetramsa SAC – Plan De Responsabilidad Social”. 18 de Junio del 2010
-
-## PERFIL PROFESIONAL
-
-- **BACHILLER** CIENCIAS ADMINISTRATIVAS.  2010
-
-- Especialista en implementar cursos y aulas virtuales en Moodle. UNIVERSIDAD DE SAN MARTÍN DE PORRES. 2012
-
-- Especialista en Marketing Digital, Ventas y Redes Sociales.  INSTITUTO LATINOAMERICANO DE EMPRESAS & NEGOCIOS- ILEN. 2012
-
--  Curso de COACHING ONTOLOGICO & CRISTIANO. Organización Continental Para La Excelencia Educativa. Diciembre 2009
-
-- Programación el Foxbase.+ . PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ – FACULTAD DE CIENCIAS E INGENIERIA. 1993
-
-- Programación avanzada en FoxPro 2.5. TELEMATIC. 1994
-
-- Vendedor Profesional. ADV Perú.  1990
-
-### Otros Conocimientos :
-
-- CMS: Wordpress, Joomla, Drupal
-
-- Diseño gráfico en Gimp, photoshop, Inkscape
-
--  Programación Web Frontend en Html5, Css3, javascript
-
-- Manejo de Bases de Datos: MS Access. MySQL.
-
-- Lenguajes de programación FoxPro, python.
-
--  Sistemas operativos: Linux
-
-- Suites de Ofimática: MS Office, libreoffice.
-
--  Administrador Plataformas E-learning, Administrador, diseñador de cursos en MOODLE.
-
-- Marketing Digital.
-
-- Creador de Contenido blogs y Redes Sociales
-
-- Inglés: Escrito Intermedio , Oral Avanzado
-
-
-
-
+- http://jorgeayona.com

@@ -28,15 +28,13 @@ Incluye **Instalación, Mantenimiento, Creación De Contenido**
 
 #### Algunos Web Sites Publicados:
 
-| Url | Tipo De Site |
-
 | --------------------------------------- | --------------------------:|
 
 | http://incaproperu.com/blog | Centro De Capacitación |
 
-| www.constructoramatsal.com | Inmobiliaria |
+| http://www.constructoramatsal.com | Inmobiliaria |
 
-| www.cursosytalleresdepuestasatierra.com | Capacitación |
+| http://www.cursosytalleresdepuestasatierra.com | Capacitación |
 
 | http://www.extintoresyservicios.com | Seguridad Contra Incendios |
 
@@ -74,7 +72,7 @@ CONSULTOR 2012
 
 - COACH /CONSULTOR 2012 
 
-- Elaboración  | Ejecución De Proyectos de Capacitación | Coach personal y ejecutivo para Plana Ejecutiva, y de oficina.
+- Elaboración, Ejecución De Proyectos de Capacitación, Coaching personal y ejecutivo para Plana Directiva, y de oficina.
 
 ### UNIVERSIDAD DE SAN MARTÍN DE PORRES – FACULTAD DE CC.AA. Y RRHH.
 

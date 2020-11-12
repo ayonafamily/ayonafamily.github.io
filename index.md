@@ -108,7 +108,7 @@ Expositor en la V Expo-ciencia Empresarial. Tema: “Análisis De La Empresa Zet
 
 - Suites de Ofimática: MS Office, libreoffice.
 
--  Administrador Plataformas E-learningAdministrador, diseñador de cursos en MOODLE.
+-  Administrador Plataformas E-learning, Administrador, diseñador de cursos en MOODLE.
 
 - Marketing Digital.
 

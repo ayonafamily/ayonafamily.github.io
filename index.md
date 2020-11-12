@@ -28,21 +28,19 @@ Incluye **Instalación, Mantenimiento, Creación De Contenido**
 
 #### Algunos Web Sites Publicados:
 
-|--------------------------------------------|------------------------------|
+-  http://incaproperu.com/blog . Centro De Capacitación
 
-| http://incaproperu.com/blog | Centro De Capacitación |
+- http://www.constructoramatsal.com - Inmobiliaria 
 
-| http://www.constructoramatsal.com | Inmobiliaria |
+- http://www.cursosytalleresdepuestasatierra.com  . Capacitación
 
-| http://www.cursosytalleresdepuestasatierra.com | Capacitación |
+- http://www.extintoresyservicios.com . Seguridad Contra Incendios 
 
-| http://www.extintoresyservicios.com | Seguridad Contra Incendios |
+- http://altonivel.wordpress.com  Temas Empresariales
 
-| http://altonivel.wordpress.com | Temas Empresariales |
+- http://volvamosacasa.wordpress.com - Gestión deContenido.
 
-| http://volvamosacasa.wordpress.com | Gestión deContenido |
-
-| http://misrefexiones.wordpress.com | Gestión de contenido |
+-  http://misrefexiones.wordpress.com . Gestión de contenido 
 
 ## 2. Consultoria/Capacitación
 

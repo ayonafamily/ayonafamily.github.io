@@ -1,10 +1,12 @@
-# Jorge Luis Ayona Inglis
+# 
 
 <center><img src="/logo2.png"> </center>
 
 > Cuando haces lo que te apasiona, disfrutarás de tu empleo
 
 ## Datos De Contacto
+
+- Jorge Luis Ayona Inglis.
 
 - DNI: 07937413
 

@@ -10,7 +10,7 @@
 
 > Cuando haces lo que te apasiona, disfrutarás de tu empleo
 
-## Acerca De Mí
+## Datos De Contacto
 
 - DNI: 07937413
 
@@ -24,13 +24,15 @@
 
 - Web Site: http://www.jorgeayona.com
 
-## Experiencia En Wordpress
+## Experiencia Profesional
+
+## 1. Desarrollo En Wordpress
 
 Gestión Integral CMS Wordpress desde el 2007 (__Freelance__)
 
 Incluye **Instalación, Mantenimiento, Creación De Contenido**
 
-### Algunos Web Sites Publicados:
+#### Algunos Web Sites Publicados:
 
 | Url | Tipo De Site |
 
@@ -50,13 +52,13 @@ Incluye **Instalación, Mantenimiento, Creación De Contenido**
 
 | http://misrefexiones.wordpress.com | Gestión de contenido |
 
-## Experiencia En Consultoria/Capacitación
+## 2. Consultoria/Capacitación
 
 ### INSTITUTO DE CAPACITACIÓN PROFESIONAL
 
 SUPERVISOR / CAPACITADOR
 
-Abril 2013 - feb 2017 - Peru
+feb 2019 - Peru
 
 - Gestión Administrativa y captación de clientes.
 
@@ -64,11 +66,13 @@ Abril 2013 - feb 2017 - Peru
 
 - Elaboración/Gestión de aulas virtuales en Moodle.
 
+- Community Manager
+
 ### CRECE – Consultores
 
 CONSULTOR
 
-jul 2012 - oct 2012 Perú
+ 2012 Perú
 
 Capacitador en Ética y Deontología a personal Tiendas Wong - Cencosud
 
@@ -76,7 +80,7 @@ Capacitador en Ética y Deontología a personal Tiendas Wong - Cencosud
 
 COACH /CONSULTOR
 
-jul 2010 – Mayo 2012 Perú
+2012 Perú
 
 - Elaboración / Ejecución De Proyectos de Capacitación - Plana Ejecutiva, y de oficina.
 
@@ -84,120 +88,48 @@ jul 2010 – Mayo 2012 Perú
 
 Expositor en la V Expo-ciencia Empresarial. Tema: “Análisis De La Empresa Zetramsa SAC – Plan De Responsabilidad Social”. 18 de Junio del 2010
 
-## CONOCIMIENTOS
+## ## PERFIL PROFESIONAL
 
-### Gestores de Contenido :
+- **BACHILLER** CIENCIAS ADMINISTRATIVAS.  2010
 
-- Wordpress, Joomla, Drupal
+- Especialista en implementar cursos y aulas virtuales en Moodle. UNIVERSIDAD DE SAN MARTÍN DE PORRES. 2012
 
-### Diseño
+- Especialista en Marketing Digital, Ventas y Redes Sociales.  INSTITUTO LATINOAMERICANO DE EMPRESAS & NEGOCIOS- ILEN. 2012
 
-- Gimp, photoshop, Inkscape
+-  Curso de COACHING ONTOLOGICO & CRISTIANO. Organización Continental Para La Excelencia Educativa. Diciembre 2009
 
-### Web Frontend
+- Programación el Foxbase.+ . PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ – FACULTAD DE CIENCIAS E INGENIERIA. 1993
 
-- Html5, Css3, javascript
+- Programación avanzada en FoxPro 2.5. TELEMATIC. 1994
 
-### Bases de Datos:
+- Vendedor Profesional. ADV Perú.  1990
 
-- MS Access. MySQL.
+### Otros Conocimientos :
 
-### Lenguajes de programación
+- CMS: Wordpress, Joomla, Drupal
 
--FoxPro.
+- Diseño gráfico en Gimp, photoshop, Inkscape
 
-### Sistemas operativos:
+-  Programación Web Frontend en Html5, Css3, javascript
 
-Linux
+- Manejo de Bases de Datos: MS Access. MySQL.
 
-### Ofimática
+- Lenguajes de programación FoxPro, python.
 
-- MS Office, libreoffice.
+-  Sistemas operativos: Linux
 
-### Plataformas E-learning
+- Suites de Ofimática: MS Office, libreoffice.
 
-- Administrador, diseñador de cursos en MOODLE.
+-  Administrador Plataformas E-learningAdministrador, diseñador de cursos en MOODLE.
 
-### Marketing Digital
+- Marketing Digital.
 
-Uso TICś para marketing.
+- Creador de Contenido blogs y Redes Sociales
 
-Manejo de Redes Sociales.
-
-### Inglés:
+- Inglés: 
 
 Escrito Intermedio , Oral Avanzado
 
-## FORMACIÓN ACADÉMICA
 
-## UNIVERSIDAD DE SAN MARTÍN DE PORRES
 
-- CIENCIAS ADMINISTRATIVAS. 2010 Peru
 
-**BACHILLER**
-
-- Diseño e Implementación De Cursos Virtuales en la Plataforma Moodle.
-
-- Taller de diseño e implementación de aulas virtuales en Moodle. 2012
-
-100 horas académicas
-
-## INSTITUTO LATINOAMERICANO DE EMPRESAS & NEGOCIOS- ILEN
-
-“Incremente sus ventas, Marketing de Éxito y Redes Sociales” 2012
-
-## CAS PROYECTOS
-
-Santiago de Chile, Curso Responsabilidad Social Según Norma ISO 26000. 2010
-
-## COACHING ONTOLOGICO & CRISTIANO
-
-Organización Continental Para La Excelencia Educativa. Diciembre 2009
-
-## PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ – FACULTAD DE CIENCIAS E INGENIERIA
-
-Programación el Foxbase.+ 1993. .
-
-## TELEMATIC
-
-- Programación avanzada en FoxPro 2.5. 1994.
-
-## ADV Perú
-
-Vendedor Profesional. 1990
-
-## Referencias Profesionales
-
-- **Mg. Luis Aguirre Wurttele**
-
-Cel 945865774
-
-Director Gerente
-
-INSTITUTO DE CAPACITACIÓN PROFESIONAL
-
-- **Dr. Marco Chávez Magan**
-
-Cel 949171601
-
-Abogado
-
-Asesor Legal
-
-PROYECTOS & MINERIA SAC.
-
-- **Dr. Amado Ezaine Ramírez**
-
-Abogado
-
-PRESIDENTE DEL CONSEJO DIRECTIVO
-
-CORPORACIÓN PARA EL DESARROLLO
-
-- **Dr. Marco Paz**
-
-Cel 992779462
-
-Gerente
-
-CAPECO

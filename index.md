@@ -70,25 +70,23 @@ feb 2019 - Peru
 
 ### CRECE – Consultores
 
-CONSULTOR
+CONSULTOR 2012 
 
- 2012 Perú
+- Capacitador en Habilidades Blandas a personal Tiendas Wong - Cencosud
 
-Capacitador en Ética y Deontología a personal Tiendas Wong - Cencosud
+- Elaboración de material didáctiico | Expositor - Instructor
 
 ### PROYECTOS & MINERIA SAC.
 
-COACH /CONSULTOR
+- COACH /CONSULTOR 2012 
 
-2012 Perú
-
-- Elaboración / Ejecución De Proyectos de Capacitación - Plana Ejecutiva, y de oficina.
+- Elaboración  | Ejecución De Proyectos de Capacitación | Coach personal y ejecutivo para Plana Ejecutiva, y de oficina.
 
 ### UNIVERSIDAD DE SAN MARTÍN DE PORRES – FACULTAD DE CC.AA. Y RRHH.
 
 Expositor en la V Expo-ciencia Empresarial. Tema: “Análisis De La Empresa Zetramsa SAC – Plan De Responsabilidad Social”. 18 de Junio del 2010
 
-## ## PERFIL PROFESIONAL
+## PERFIL PROFESIONAL
 
 - **BACHILLER** CIENCIAS ADMINISTRATIVAS.  2010
 
@@ -126,9 +124,7 @@ Expositor en la V Expo-ciencia Empresarial. Tema: “Análisis De La Empresa Zet
 
 - Creador de Contenido blogs y Redes Sociales
 
-- Inglés: 
-
-Escrito Intermedio , Oral Avanzado
+- Inglés: Escrito Intermedio , Oral Avanzado
 
 
 

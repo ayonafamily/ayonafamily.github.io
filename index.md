@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-
-
-
 # Jorge Luis Ayona Inglis
 
 <center><img src="/logo2.png"> </center>

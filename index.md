@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 
-<html lang="es">
-
 
 
 # Jorge Luis Ayona Inglis

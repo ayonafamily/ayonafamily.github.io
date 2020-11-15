@@ -91,10 +91,11 @@ Redes Sociales:
   
 Web Personal :[ http://jorgeayona.com](http://jorgeayona.com)
 
+
 <hr>
 
-
-![](jorge-infografia-cv-web.png)
+![](portada.jpg)
+<hr>
 
  Volver a : [jorgeayona.com](http://jorgeayona.com)
 ----

@@ -74,7 +74,7 @@ Jorge Luis Ayona Inglis
 - Sé Diseñar; desarrollar en Wordpress
 - Sé elaborar Temas Wordpress y Convertir plantillas Html5 a Wordpress.
 - Sé instalar, configurar, administrar sitios en Moodle
-- Sé Diseño Gráfico Con herramientas de software libre: Gimp | Inkscape
+- Sé Diseño Gráfico Con herramientas de software libre: Gimp & Inkscape
 - Sé crear contenido para blogs y Redes Sociales. Texto, audio, vídeo, imágen.
 - Sé de Community Management , Manejo De Redes Sociales, y Marketing Digital.
 

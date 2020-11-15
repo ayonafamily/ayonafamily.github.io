@@ -63,6 +63,7 @@ Jorge Luis Ayona Inglis
 - UNIVERSIDAD DE SAN MARTÍN DE PORRES. **Moodle, creación de Aulas Virtuales**. 2012
 - INSTITUTO LATINOAMERICANO DE EMPRESAS & NEGOCIOS- ILEN. **“Incremente sus ventas, Marketing de Éxito y Redes Sociales”**. 2012
 - Organización Continental Para La Excelencia Educativa. **Coaching Ontológico & Cristiano**. 2009
+- Organización "Haga Negocios". Curso de Wordpress. 2007
 - PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ FACULTAD DE CIENCIAS E INGENIERIA. **Programación el Foxbase**   1993.
 - TELEMATIC. **Programación avanzada en FoxPro 2.5**  1994
 - ADV  Perú. **Vendedor Profesional**. 1990

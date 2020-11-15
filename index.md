@@ -17,7 +17,7 @@ Jorge Luis Ayona Inglis
 
 ### Diseño Web Wordpress
 
- Gestión Integral CMS Wordpress desde el 2007  como__Freelancer__. Actividades: **Instalación, Mantenimiento,  Creación De Contenido**
+ Gestión Integral CMS Wordpress desde el 2007  como *Freelancer*. Actividades: **Instalación, Mantenimiento,  Creación De Contenido**
 
 #### Algunos Web Sites Publicados:
 

@@ -33,14 +33,14 @@ Jorge Luis Ayona Inglis
 
 ### INSTITUTO DE CAPACITACIÓN PROFESIONAL,
 
-- Tuve el cargo de: SUPERVISOR / CAPACITADOR.  2019
+- Tuve las funciones de: SUPERVISOR & CAPACITADOR.  2019
 - Participé en la Gestión Administrativa, Captación de clientes
-- Community Manager | Marketing Digital
-- Elaboración de materiales de capacitación, Dictado de cursos.  Elaboración | Gestión de aulas virtuales en Moodle.
+- Trabajé como Community Manager  Marketing Digital
+- Elaboración de materiales de capacitación, Dictado de cursos.  Elaboración y Gestión de aulas virtuales en Moodle.
 
 ### PROYECTOS & MINERÍA S.A.C.
 
-- Cargo: COACH EJECUTIVO | CONSULTOR - 2013
+- Cargo: COACH EJECUTIVO & CONSULTOR - 2013
   Elaboré y Ejecuté de proyectos de capacitación, tanto para la Plana Ejecutiva, como personal de oficina . Sede Trujillo.
 
 ### CRECE CONSULTORES LIMA - PERÚ
@@ -70,9 +70,9 @@ Jorge Luis Ayona Inglis
 ## Conocimientos
 
 - Hablo inglés nivel intermedio superior y japones nivel básico.
-- Sé Diseñar | Desarrollar en Wordpress
-- Sé elaborar Temas Wordpress | Convertir plantillas Html5 a Wordpress.
-- Sé instalar | configurar | administrar sitios en Moodle
+- Sé Diseñar; desarrollar en Wordpress
+- Sé elaborar Temas Wordpress y Convertir plantillas Html5 a Wordpress.
+- Sé instalar, configurar, administrar sitios en Moodle
 - Sé Diseño Gráfico Con herramientas de software libre: Gimp | Inkscape
 - Sé crear contenido para blogs y Redes Sociales. Texto, audio, vídeo, imágen.
 - Sé de Community Management , Manejo De Redes Sociales, y Marketing Digital.

@@ -11,7 +11,7 @@ Jorge Luis Ayona Inglis
 - Dirección: Juan Pablo Fernandini 1583 Pueblo Libre.
 - WhatsApp: +51 963 837204
 - E-mail: ayonafamily@gmail.com
-- Carrera: Administración | Marketing Digital
+- Carreras: Administración, Marketing Digital
 
 ## Experiencia Profesional
 
@@ -36,7 +36,7 @@ Jorge Luis Ayona Inglis
 - Tuve las funciones de: SUPERVISOR & CAPACITADOR.  2019
 - Participé en la Gestión Administrativa, Captación de clientes
 - Trabajé como Community Manager  Marketing Digital
-- Elaboración de materiales de capacitación, Dictado de cursos.  Elaboración y Gestión de aulas virtuales en Moodle.
+- Elaboración de materiales de capacitación, Dictado de cursos.  Implementación y Gestión de aulas virtuales en Moodle.
 
 ### PROYECTOS & MINERÍA S.A.C.
 
@@ -45,21 +45,21 @@ Jorge Luis Ayona Inglis
 
 ### CRECE CONSULTORES LIMA - PERÚ
 
-- Trabajé con el título de CONSULTOR.  Fui asignado al área de Capacitación en Ética y Deontología a personal en Cencosud Tiendas Wong. Encargado de elaborar el material de instrucción y dictar clases. 2012
+- Trabajé con el título de CONSULTOR.  Fui asignado al área de Capacitación en Ética y Deontología. Fui asignado Cencosud Tiendas Wong. Encargado de elaborar el material de instrucción y dictado de clases. 2012
 
 ## Perfil Profesional
 
 ### Nivel De Estudios
 
-- Universidad De San Martín De Ṕorres. **Bachiller En Ciencias Administrativas***
-  . Seminario Kyrios. **Licenciado en Teología Pastoral**, **Maestría en Teología Mención: Familia***
+- Universidad De San Martín De Ṕorres. **Bachiller En Ciencias Administrativas**
+  . Seminario Kyrios. **Licenciado en Teología Pastoral**, **Maestría en Teología Mención: Familia**
 
 ### Cursos
 
 - Universitas Telefónica - MiriadaX. **Marketing Digital**. 2019
 - Escuela de Emprendedores. **Desarrollo web Joomla**.
-- Universidad Rey Juan Carlos - Coursera.** Redes Sociales**. 2019
-- Universidad De Alicante - Coursera. **Desarrollo Web.*** 2017
+- Universidad Rey Juan Carlos - Coursera.**Redes Sociales**. 2019
+- Universidad De Alicante - Coursera. **Desarrollo Web.** 2017
 - UNIVERSIDAD DE SAN MARTÍN DE PORRES. **Moodle, creación de Aulas Virtuales**. 2012
 - INSTITUTO LATINOAMERICANO DE EMPRESAS & NEGOCIOS- ILEN. **“Incremente sus ventas, Marketing de Éxito y Redes Sociales”**. 2012
 - Organización Continental Para La Excelencia Educativa. **Coaching Ontológico & Cristiano**. 2009
@@ -95,7 +95,8 @@ Web Personal :[ http://jorgeayona.com](http://jorgeayona.com)
 <hr>
 
 ![](portada.jpg)
-<hr>
 
- Volver a : [jorgeayona.com](http://jorgeayona.com)
-----
+
+ 
+ Volver a : <a href = "http://jorgeayona.com"  target="_blank">jorgeayona.com</a>
+ ---

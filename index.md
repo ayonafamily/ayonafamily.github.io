@@ -88,4 +88,6 @@ Redes Sociales:
 - [https://www.linkedin.com/in/jorgeayonainglis/](https://www.linkedin.com/in/jorgeayonainglis/)
 
   
-Blog:  [jorgeayona.com](http://jorgeayona.com)
+Web Personal :[ http://jorgeayona.com](http://jorgeayona.com)
+
+[Volver ->] ((http://jorgeayona.com :)

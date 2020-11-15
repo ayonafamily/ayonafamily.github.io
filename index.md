@@ -1,3 +1,4 @@
+
 Jorge Luis Ayona Inglis
 =======================
 
@@ -35,12 +36,12 @@ Jorge Luis Ayona Inglis
 - Tuve el cargo de: SUPERVISOR / CAPACITADOR.  2019
 - Participé en la Gestión Administrativa, Captación de clientes
 - Community Manager | Marketing Digital
-- Elaboración de materiales de capacitación, Dictado de cursos  Elaboración | Gestión de aulas virtuales en Moodle.
+- Elaboración de materiales de capacitación, Dictado de cursos.  Elaboración | Gestión de aulas virtuales en Moodle.
 
 ### PROYECTOS & MINERÍA S.A.C.
 
 - Cargo: COACH EJECUTIVO | CONSULTOR - 2013
-  Elaboré y Ejecuté de proyectos de capacitación para la Plana Ejecutiva y personal de oficina. Sede Trujillo
+  Elaboré y Ejecuté de proyectos de capacitación, tanto para la Plana Ejecutiva, como personal de oficina . Sede Trujillo.
 
 ### CRECE CONSULTORES LIMA - PERÚ
 
@@ -80,12 +81,11 @@ Jorge Luis Ayona Inglis
 
 Redes Sociales: 
 
-- https://www.facebook.com/jorgeayonainglis 
+- [https://www.facebook.com/jorgeayonainglis](https://www.facebook.com/jorgeayonainglis/) 
 
-- https://www.instagram.com/jorgelayonainglis/ 
+- [https://www.instagram.com/jorgelayonainglis/](https://www.instagram.com/jorgelayonainglis/) 
 
-- https://www.linkedin.com/in/jorgeayonainglis/
+- [https://www.linkedin.com/in/jorgeayonainglis/](https://www.linkedin.com/in/jorgeayonainglis/)
+
   
-  Blog: 
-
-- http://jorgeayona.com
+Blog:  [jorgeayona.com](http://jorgeayona.com)

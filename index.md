@@ -2,7 +2,7 @@
 Jorge Luis Ayona Inglis
 =======================
 
-![logo2](/logo2.png)
+![logo2](logo2.png)
 
 ## Datos De Contacto
 
@@ -21,22 +21,33 @@ Jorge Luis Ayona Inglis
 
 #### Algunos Web Sites Publicados:
 
-| Url                                            | Tipo De Sitio              |
-| ---------------------------------------------- | -------------------------- |
-| http://incaproperu.com/blog                    | Centro De Capacitación     |
-| http://www.constructoramatsal.com              | Inmobiliaria               |
-| http://www.cursosytalleresdepuestasatierra.com | Capacitación               |
-| http://www.extintoresyservicios.com            | Seguridad Contra Incendios |
-| http://altonivel.wordpress.com                 | Temas Empresariales        |
-| http://volvamosacasa.wordpress.com             | Gestión deContenido        |
-| http://misrefexiones.wordpress.com             | Gestión de contenido       |
 
-### INSTITUTO DE CAPACITACIÓN PROFESIONAL,
+| Url                                                                                              | Tipo De Site               |
+| ------------------------------------------------------------------------------------------------ | --------------------------:|
+| [https://techdig.000webhostapp.com/](https://techdig.000webhostapp.com/)                         | Tech Web Multimedia        |
+| [https://autoplastic-practic.000webhostapp.com/](https://autoplastic-practic.000webhostapp.com/) | Discoteca El Dragón        |
+| [http://incaproperu.260mb.org/](http://incaproperu.260mb.org/)                                   | Centro De Capacitación     |
+| [http://www.constructoramatsal.com]()                                                            | Inmobiliaria               |
+| [http://www.cursosytalleresdepuestasatierra.com](http://www.cursosytalleresdepuestasatierra.com) | Capacitación               |
+| [http://extintoresyservicios.260mb.org/](http://extintoresyservicios.260mb.org/)                 | Seguridad Contra Incendios |
+
+<br>
+
+#### Tech Web Multimedia
+
+- Desarrollador Wordpress - 2020.
+  Desarrollo Web páginas estáticas, elaboración de themes wordpress.
+
+### INSTITUTO DE CAPACITACIÓN PROFESIONAL
 
 - Tuve las funciones de: SUPERVISOR & CAPACITADOR.  2019
-- Participé en la Gestión Administrativa, Captación de clientes
-- Trabajé como Community Manager  Marketing Digital
-- Elaboración de materiales de capacitación, Dictado de cursos.  Implementación y Gestión de aulas virtuales en Moodle.
+- Participé en la Gestión Administrativa, Captación de clientes.- 
+- Elabore materiales de capacitación, Dictado de cursos.
+- Desarrollé Temas wordpress personalizados, convierto páginas estáticas a dinámicas.
+- Community Manager, publicación de contenido en Redes Sociales.
+- Mantenimiento de la web corporativa.
+- Instalación, mantenimiento y personalización de Aula Virtual Moodle.
+- Instructor / Capacitador /Coach
 
 ### PROYECTOS & MINERÍA S.A.C.
 
@@ -74,7 +85,7 @@ Jorge Luis Ayona Inglis
 - Sé Diseñar; desarrollar en Wordpress
 - Sé elaborar Temas Wordpress y Convertir plantillas Html5 a Wordpress.
 - Sé instalar, configurar, administrar sitios en Moodle
-- Sé Diseño Gráfico Con herramientas de software libre: Gimp & Inkscape
+- Sé Diseño Gráfico Con herramientas de software libre: Canva, Gimp & Inkscape
 - Sé crear contenido para blogs y Redes Sociales. Texto, audio, vídeo, imágen.
 - Sé de Community Management , Manejo De Redes Sociales, y Marketing Digital.
 
@@ -90,7 +101,7 @@ Redes Sociales:
 
   
 Web Personal :[ http://jorgeayona.com](http://jorgeayona.com)
-
+(Currículum online)[https://ayonafamily.github.io/]
 
 <hr>
 

@@ -2,7 +2,7 @@
 Jorge Luis Ayona Inglis
 =======================
 
-<img src ="logo2.png" alt="Jorge Ayona">
+<img src ="logo2.png" alt="Jorge Ayona" width="200">
 
 
 ## Desarrollador Web

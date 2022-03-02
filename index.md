@@ -7,7 +7,6 @@ Jorge Luis Ayona Inglis
 ## Datos De Contacto
 
 - Nombre: Jorge Luis Ayona Inglis
-- Edad: 59 años
 - Dirección: Juan Pablo Fernandini 1583 Pueblo Libre.
 - WhatsApp: +51 963 837204
 - E-mail: ayonafamily@gmail.com
@@ -26,8 +25,7 @@ Jorge Luis Ayona Inglis
 | ------------------------------------------------------------------------------------------------ | --------------------------:|
 | [https://techdig.000webhostapp.com/](https://techdig.000webhostapp.com/)                         | Tech Web Multimedia        |
 | [https://autoplastic-practic.000webhostapp.com/](https://autoplastic-practic.000webhostapp.com/) | Discoteca El Dragón        |
-| [http://incaproperu.260mb.org/](http://incaproperu.260mb.org/)                                   | Centro De Capacitación     |
-| [http://www.constructoramatsal.com]()                                                            | Inmobiliaria               |
+| [http://incaproperu.2com/](http://incaproperu.260mb.org/)                                   | Centro De Capacitación     |
 | [http://www.cursosytalleresdepuestasatierra.com](http://www.cursosytalleresdepuestasatierra.com) | Capacitación               |
 | [http://extintoresyservicios.260mb.org/](http://extintoresyservicios.260mb.org/)                 | Seguridad Contra Incendios |
 

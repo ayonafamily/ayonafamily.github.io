@@ -2,16 +2,13 @@
 Jorge Luis Ayona Inglis
 =======================
 
-![logo2](logo2.png)
-
+<img src ="logo2.png" alt="Jorge Ayona">
 
 
 ## Desarrollador Web
 
 ## Acerca De Mí
 
-- DNI: 07937413
-- Dirección: Juan Pablo Fernandini 1583, Lima, Lima, Perú
 - Celular: +51 963-837204
 - Fujo: +51 1 648-3023
 - Email : ayonafamily@gmail.com
@@ -24,13 +21,14 @@ Jorge Luis Ayona Inglis
 
 ### Algunos Web Sites Publicados:
 
-| [https://techdig.000webhostapp.com/](https://techdig.000webhostapp.com/) | Web Corporativa |
+| Sitio|PRopósito|
 | --- | --- |
-| [http://acjservicios.com](Adj Servicios)| Web Corporativa |
-| [http://incaproperu.com](Incapro) | Educativo |
-| [http://boltekperu.com](Boltek Perú) | Corporativo |
-| [http://cursosytalleresdepuestasatierra.com](Cursos & Talleres)| Corporativo |
-| [http://consultorasmnl.com/](Smnl Consultoras)| Corporativo |
+|<a href ="http://acjservicios.com">Adj Servicios</a>| Web Corporativa |
+|<a href =" http://incaproperu.com">Incapro</a> | Educativo |
+|<a href =" http://boltekperu.com">Boltek Perú</a> | Corporativo |
+|<a href ="http://cursosytalleresdepuestasatierra.com">Cursos & Talleres</a>| Corporativo |
+|<a href =" http://consultorasmnl.com/">Smnl Consultoras</a>| Corporativo |
+|<a href ="https://techdig.000webhostapp.com/">Tech Web</a>| Web Corporativa |
 
 #### Frelance
 
@@ -71,22 +69,23 @@ Jorge Luis Ayona Inglis
 
 ## Idiomas
 
-- Portugués - Muy Básico,  Japonés - Básico,  Inglés – Avanzado
+- Portugués Básico,  Japonés Básico,  Inglés  Avanzado
 
 ### Conocimientos, Competencias y Habilidades
 
 #### Diseño & Desarrollo Web
- Wordpress ,  Html5,  Css , bootstrap 5,  Git,  Javascript,  Php,  Mysql
+-  Wordpress ,  Html5,  Css , bootstrap 5,  Git,  Javascript,  Php,  Mysql
 #### Lenguages De Programación 
- Python,  Java
+ - Python,  Java
 
 #### Aulas Virtuales
-. Moodle
+- Moodle
 ####  Diseño Gráfico
 
 - Canva,  Inkscape (Corel),  Gimp (photoshop)
 
-
+<br>
+<hr>
 
 ![](portada.jpg)
 

@@ -24,16 +24,15 @@ Jorge Luis Ayona Inglis
 | Url                                                                                              | Tipo De Site               |
 | ------------------------------------------------------------------------------------------------ | --------------------------:|
 | [https://techdig.000webhostapp.com/](https://techdig.000webhostapp.com/)                         | Tech Web Multimedia        |
-| [https://autoplastic-practic.000webhostapp.com/](https://autoplastic-practic.000webhostapp.com/) | Discoteca El Dragón        |
-| [http://incaproperu.com/](http://incaproperu.260mb.org/)                                   | Centro De Capacitación     |
+|[http://incaproperu.com/](incaproperu.com)  | Centro De Capacitación     |
 | [http://www.cursosytalleresdepuestasatierra.com](http://www.cursosytalleresdepuestasatierra.com) | Capacitación               |
-| [http//acjservicios.com/](asd servicios)                 | Servicios Generales |
+| [http//acjservicios.com/](adj servicios)                 | Servicios Generales |
 
 <br>
 
 #### Tech Web Multimedia
 
-- Desarrollador Wordpress - 2020.
+- Desarrollador Wordpress  Freelance- 2020.
   Desarrollo Web páginas estáticas, elaboración de themes wordpress.
 
 ### INSTITUTO DE CAPACITACIÓN PROFESIONAL

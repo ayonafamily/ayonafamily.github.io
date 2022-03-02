@@ -26,11 +26,11 @@ Jorge Luis Ayona Inglis
 
 | [https://techdig.000webhostapp.com/](https://techdig.000webhostapp.com/) | Web Corporativa |
 | --- | --- |
-| http://acjservicios.com | Web Corporativa |
-| [http://incaproperu.com](http://incaproperu.260mb.org/) | Educativo |
-| [http://boltekperu.com](http://boltekperu.com/) | Corporativo |
-| http://cursosytalleresdepuestasatierra.com | Corporativo |
-| http://consultorasmnl.com/ | Corporativo |
+| [http://acjservicios.com](Adj Servicios)| Web Corporativa |
+| [http://incaproperu.com](Incapro) | Educativo |
+| [http://boltekperu.com](Boltek Perú) | Corporativo |
+| [http://cursosytalleresdepuestasatierra.com](Cursos & Talleres)| Corporativo |
+| [http://consultorasmnl.com/](Smnl Consultoras)| Corporativo |
 
 #### Frelance
 

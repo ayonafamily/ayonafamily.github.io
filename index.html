@@ -13,26 +13,27 @@
 
 <div class="Container">
     <header>
-
+<!-- Background image -->
         <div class="p-5 text-center bg-image" style="
               background-image: url('img/tecno.jpg');
-              height: 400px;
-            ">
-        <!-- Background image -->
+              height: 650px;">        
         
             <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);">
-                <div class="d-flex justify-content-center align-items-bottom h-100">
+                <div class="d-flex justify-content-center align-items-center h-100">
                     <div class="text-white">
                         <h1 class="mb-3">Jorge Ayona</h1>
                         <h5 class="mb-4">Desarrollador Web</h5>
-                        <a class="btn btn-outline-light btn-lg m-2" href="video/jorge.mp4" role="button" rel="nofollow"
-                            target="_blank">Presentación</a>
-
-                        <!-- <a class="btn btn-outline-light btn-lg m-2"
-            href="#acerca"
-            target="_blank"
-            role="button"
-          >¡Bienvenidos!</a> -->
+                        
+                            <div id="video-popup" class="popup-modal mfp-hide">
+                                <div class="fluid-video-wrapper">
+                                    <iframe width="560" height="315" src="video/jorge.mp4" frameborder="0"
+                                         width="500" height="281" webkitallowfullscreen mozallowfullscreen
+                                        allowfullscreen></iframe>
+                                </div>
+                                 
+                            </div> <!-- /video-popup -->
+                            <a class="button stroke smoothscroll" href="#acerca" title=""><span class="btn btn-outline-light btn-lg m-2"> Entrar</span></a>
+                        
                     </div>
                 </div>
             </div>

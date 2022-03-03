@@ -1,13 +1,9 @@
-var creditos = new Object();
-creditos = {
-autor: "Jorge Ayona",
-empresa: "Freelance",
-fecha: new Date(),
-};
-
-const autor = (creditos) =>{
-
-  document.getElementById("pie").innerHTML =` &copy; ${creditos.fecha.getFullYear()} ${creditos.empresa} <br> ${creditos.autor`};
+const autor = () => {
+    let fecha = new Date();
+    const author = "<a href='mailto:ayonafamily@gmail.com' target='_blank' title='email de Jorge Ayona'><em>Jorge Ayona</em></a>";
+    const empresa="Freelancer";    
+    
+    document.getElementById("pie").innerHTML = `&copy; ${fecha.getFullYear()}  <br> Diseño: ${author}  `;
 }
 
-autor(creditos);
+  autor();

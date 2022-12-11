@@ -1,8 +1,9 @@
 const autor = () => {
     let fecha = new Date();
-    const author = "<a href='mailto:ayonafamily@gmail.com' target='_blank' title='email de Jorge Ayona'><em>Jorge Ayona</em></a>";
+    const author = "<a><em>Jorge Ayona</em></a>";
     const whatsapp="<a href = 'https://api.whatsapp.com/send?phone=51995121512' target='_blank'><img src ='img/whatsapp.png' width = 1.8% > Whatsapp</a>";    
-    
-    document.getElementById("pie").innerHTML = `&copy; ${fecha.getFullYear()}  <br> Diseño: ${author} <br> ${whatsapp} `;
+    const contacto = "<a href='https://docs.google.com/forms/d/e/1FAIpQLSdsU-p8k6VS-8zhowHnzYotVzKLQbpc_H6Fgn8dY1s04QiMEQ/viewform?usp=sf_link'  target='_blank'>Contacto</a>";
+    document.getElementById("pie").innerHTML = `&copy; ${fecha.getFullYear()}  <br> Diseño: ${author} <br> ${whatsapp} <br>
+     ${contacto} `;
 };
   autor();

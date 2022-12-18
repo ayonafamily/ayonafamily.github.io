@@ -22,15 +22,15 @@
     scroll-margin-top: 3.8em;
  }
 
- .tt{color:var(--paleta7);}
+ .tabla{color:var(--paleta5 );}
  
- h1{color:var(--paleta1)}
- h2{color:var(--paleta2) }
- h3{color:var(--paleta5) ;}
-h4 h5 {color:var(--paleta6);}
-h6{color:var(--paleta8)}
+ .paleta1{color:var(--paleta1) ;} 
+ .paleta2{color:var(--paleta2); }
+ .paleta5{color:var(--paleta5) ;}
+.paleta6{color:var(--paleta6);}
+.paleta8{color:var(--paleta8)}
 
-.a{color:var(--paleta6);}
+
 
 .titulo{
    color:white;

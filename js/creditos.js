@@ -10,3 +10,6 @@ const autor = () => {
      ${contacto} <hr>&copy; ${fecha.getFullYear()} Diseño: ${author}  `;
 };
   autor();
+
+
+ 

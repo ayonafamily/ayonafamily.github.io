@@ -25,9 +25,9 @@ $("p")
     });
 
 
-$("#alertaDescarga").on("click", function () {
+/* $("#alertaDescarga").on("click", function () {
     alert("Pulse 'aceptar' para descargar..");    
-});// Descarga cv
+});// Descarga cv */
 
 
 

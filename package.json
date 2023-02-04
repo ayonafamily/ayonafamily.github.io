@@ -1,8 +1,18 @@
 {
+  "name": "ayonafamily-cv",
+  "version": "1.0.0",
+  "description": "This is a Jorge Ayona Curriculun",
+   "author": "Jorge Ayona",
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3"
   },
-  "scripts":{
-"dev":"lite-server"
-}
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com/ayonafamily/ayonafamily.git"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "license": "ISC"
+  }
 }

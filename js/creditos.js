@@ -7,7 +7,7 @@ const autor = () => {
     
        
     document.getElementById("pie").innerHTML = `${whatsapp} <br> ${qr} <br><br>
-     ${contacto} <hr>&copy; ${fecha.getFullYear()} Diseño: ${author}  `;
+     ${contacto} <br>&copy; ${fecha.getFullYear()} Diseño: ${author}  `;
 };
   autor();
 

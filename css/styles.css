@@ -72,6 +72,17 @@ a:link, a:visited, a:active {
    text-decoration:none;
 }
 
+img{
+   border-radius: 25px;
+   border: solid 1px transparent;
+   max-height: 100vr;
+}
+
+.img2 {
+   display: block;
+   margin: auto;
+   height: 60px;  
+}
 
 ul {
    list-style-type: square;
@@ -84,11 +95,7 @@ table {
    border: solid 1px;
 }
 
-.img2 {
-   display: block;
-   margin: auto;
-   height: 53px;
-}
+
 
 #alertaDescarga a{
    text-decoration: none;

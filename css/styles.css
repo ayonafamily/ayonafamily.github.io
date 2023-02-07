@@ -79,6 +79,7 @@ img{
 }
 
 .img2 {
+   padding: 3px;
    display: block;
    margin: auto;
    height: 60px;  
@@ -95,9 +96,11 @@ table {
    border: solid 1px;
 }
 
-
-
 #alertaDescarga a{
    text-decoration: none;
    color: var(--paleta6);
+}
+
+#brand{
+   color: var(--paleta2);
 }

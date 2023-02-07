@@ -2,9 +2,10 @@
   "name": "ayonafamily-cv",
   "version": "1.0.0",
   "description": "This is a Jorge Ayona Curriculun",
-   "author": "Jorge Ayona",
+  "author": "Jorge Ayona",
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
     "jquery": "^3.6.3"
   },
   "repository": {

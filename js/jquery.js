@@ -1,4 +1,7 @@
 
+    
+   
+
 $("p")
     .on("mouseenter", function () {
         $(this).css({
@@ -25,29 +28,13 @@ $("p")
         $(this).css(styles);
     });
 
-
-/* $("#alertaDescarga").on("click", function () {
-    alert("Pulse 'aceptar' para descargar..");    
-});// Descarga cv */
-
+    
+    
+    
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-$("document").ready(function () {
-    $("img").addClass("bounce");
-});
 
 
 

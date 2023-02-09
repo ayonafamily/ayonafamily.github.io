@@ -1,3 +1,6 @@
+
+
+
 body {
    font-family: 'Open Sans', sans-serif;
    font-family: 'Roboto', sans-serif;
@@ -90,6 +93,13 @@ img{
    display: block;
    margin: auto;
    height: 60px;  
+}
+
+#icono{
+   margin:0 auto;
+   width: 55px;
+   height: 55px;
+   border-radius: 50%;
 }
 
 ul {

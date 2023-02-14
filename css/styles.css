@@ -1,11 +1,8 @@
-
-
-
-body {
-   font-family: 'Open Sans', sans-serif;
-   font-family: 'Roboto', sans-serif;
-   background-color: rgb(255, 255, 255);
-}
+:root {
+   --header: 3rem;
+   --footer: 40px;
+   --main: calc(100vh - calc(var(--header) + var(--footer)));
+   }
 
 :root {
    --paleta1: #46adf1;
@@ -22,6 +19,12 @@ body {
 
 :root {
    --paleta6: #df46f1;
+}
+
+body {
+   font-family: 'Open Sans', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   background-color: rgb(255, 255, 255);
 }
 
 
@@ -77,7 +80,6 @@ h2:hover{
    color:var(--paleta6);
 }
 
-
 a:link, a:visited, a:active {
    text-decoration:none;
 }
@@ -100,6 +102,10 @@ img{
    width: 55px;
    height: 55px;
    border-radius: 50%;
+}
+
+#icono:hover{
+   opacity: 0.5;
 }
 
 ul {

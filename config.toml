@@ -1,0 +1,7 @@
+baseURL = 'https://www.jorgeayona.com/' # Sustituye por tu dominio real
+languageCode = 'es'
+title = 'Jorge Ayona'
+
+
+[params]
+    env = "production"
